@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% load static %}
 
+
 {% block page_header %}
     <div class="container header-container">
         <div class="row">
@@ -10,18 +11,32 @@
 {% endblock %}
 
 {% block content %}
-    <div class="container h-100">
-        <div class="row h-100">
-            <div class="col-7 col-md-6 my-auto">
-                <h1 class="display-4 logo-font text-black">
-                    The new collections are here
-                </h1>
-                <div class="my-5">
-                    <h4>
-                        <a href="" class="shop-now-button btn btn-lg rounded-0 text-uppercase py-3">Shop Now</a>
-                    </h4>
-                </div>
+
+
+
+     <!-- footer -->
+
+     <footer class="container-fluid">
+        <div class="row bg-black footer-container">        
+            <div class="col-md-4 col-sm-12 text-center mt-3 mb-3">
+                <p class="footer-header text-white text-uppercase">About</p>
+                <p class="footer-text text-white">Store for golf enthusiasts where you can buy courses and travel and also golf accessories</p>
+            </div> 
+            <div class="col-md-4 col-sm-6 text-center mt-3 mb-3">
+                <p class="footer-header text-white text-uppercase">Email</p>
+                <p class="footer-text text-white">info@golfstore.com</p>
+            </div> 
+            <div class="col-md-4 col-sm-6 text-center mt-3 mb-3">
+                <p class="footer-header text-white text-uppercase">Social</p>
+                <ul class="social-links">
+                    <li class="list-inline-item"><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook fa-2x"></i></a></li>
+                    <li class="list-inline-item"><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter fa-2x"></i></a></li>
+                    <li class="list-inline-item"><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram fa-2x"></i></a></li>
+                </ul>
             </div>
-        </div>
-    </div>
+            <div class="col-md-4 text-center">   
+            </div>         
+        </div>       
+    </footer>
+
 {% endblock %}

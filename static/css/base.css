@@ -77,4 +77,17 @@ body {
     .header-container {
         padding-top: 164px;
     }
+
+
+    .hero-image {
+    background: url('https://raw.githubusercontent.com/mysan91/Storegolf/main/media/background1.jpg') no-repeat center center fixed; 
+    height: calc(100vh - 164px);  
+    }
+    
+
+/* Social Media Icons in footer*/
+.social-links {
+    color: blue;
+    font-size: 50px;
+    padding: 20px;
 }
