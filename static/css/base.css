@@ -3,11 +3,12 @@ html {
 }
 
 body {
-    background: url('https://raw.githubusercontent.com/mysan91/Storegolf/main/media/background1.jpg') no-repeat center center fixed;
-    background-size: cover;
+   background-color: black;
     height: calc(100vh - 164px);
     font-family:'Times New Roman';
 }
+
+/* from Bulma */
 
 /* from Bulma */
 .icon {
