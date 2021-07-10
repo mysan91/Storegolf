@@ -57,6 +57,22 @@ body {
     border: 1px solid black !important;
 }
 
+/* Social Media Icons in footer*/
+.social-links {
+    color: blue;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:white;
+  }
+
+
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
@@ -79,12 +95,3 @@ body {
     .header-container {
         padding-top: 164px;
     }
-
-
-/* Social Media Icons in footer*/
-.social-links {
-    color: blue;
-    font-size: 30px;
-    padding: 20px;
-}
-
