@@ -4,7 +4,7 @@
 
 # 
 
-## About 
+## Summary 
 The site is a Golf store, were you can buy golf products, courses and also golf travels. 
 
 
@@ -15,44 +15,37 @@ The site is a Golf store, were you can buy golf products, courses and also golf 
 ## UX 
 
 
-
-
 ### User Goals
 *
 
  ### Site Owner Goals 
 
 
-
  ### User Requirements 
 
 
 
-## Design Choices 
+## Features 
 
-#### Home page
+### Existing features 
+
+Homepage:
+
+* The site is styled using bootstrap for responsive design
+* Fixed navbar, incorporating search form and site navigation links
+* Buttons linking to product areas of the site
+* Footer with social media links and email informationd and a small about section. 
+* Background image 
+
+Product Details:
+
+Crispy forms used to display product info
+Bootstrap card format to display product image/details
 
 
+## Features Left to Implement
 
-### Styling 
 
-### Features that is implemented:
-
-The website uses Materialize CSS on following:
-
-* Navbar 
-* Mobile Sidenav 
-* Form (to register and log in)
-* Users can login and register to add or edit tasks
-* Users can delete a task
-* Users can edit a task
-* Users can pick both start and due date to a task 
-* Site linked to Heroku
-* Site linked to Mongodb database
-* Login/register
-* CRUD
-
-### Features left to implement
 
 
 
@@ -73,22 +66,14 @@ Used as Back-End programming language
 * Pymongo 
 Used as Python's API for MongoDB intergration.
 
-* Flask rendering template, URIs Requests and the flash messages.
-
 * BSON for accessing the data in MongoDB and to access IDs. 
 
-* Werkzeug was user to hash password when registering to the site and encrypting on MongoDB.
-
 Database:
-* MongoDB was used to store all data for the website.
+* M
 
 * Heroku
 Used for hosting my full stack app.
 
-Requests and flash messages.
-* Jquery
-JQuery was used for materialize features that needed javascript.
-* Materialize CSS
 
 
 Tools & Libraries:
