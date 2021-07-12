@@ -38,24 +38,24 @@ The site is a Golf store, were you can buy golf products, courses and also golf 
 
  ### User Requirements 
 
-First Header | Second Header | Third Header
+**As a/an** | **I want to be able to**  | **So that I can** 
 ------------ | ------------- | -------------
-Content from cell 1 | Content from cell 2 | Content from cell 3
-Content in the first column | Content in the second column | Content in the second column
-Content from cell 1 | Content from cell 2 | Content from cell 3
-Content in the first column | Content in the second column | Content in the second column
-Content from cell 1 | Content from cell 2 | Content from cell 3
-Content in the first column | Content in the second column | Content in the second column
-Content from cell 1 | Content from cell 2 | Content from cell 3
-Content in the first column | Content in the second column | Content in the second column
-Content from cell 1 | Content from cell 2 | Content from cell 3
-Content in the first column | Content in the second column | Content in the second column
-Content from cell 1 | Content from cell 2 | Content from cell 3
-Content in the first column | Content in the second column | Content in the second column
-Content from cell 1 | Content from cell 2 | Content from cell 3
-Content in the first column | Content in the second column | Content in the second column
-Content from cell 1 | Content from cell 2 | Content from cell 3
-Content in the first column | Content in the second column | Content in the second column
+Shopper | Content from cell 2 | Content from cell 3
+Shopper | Content in the second column | Content in the second column
+Shopper | Content from cell 2 | Content from cell 3
+Shopper| Content in the second column | Content in the second column
+Shopper | Content from cell 2 | Content from cell 3
+Shopper | Content in the second column | Content in the second column
+Shopper | Content from cell 2 | Content from cell 3
+Site owner | Content in the second column | Content in the second column
+Site owner | Content from cell 2 | Content from cell 3
+Site owner | Content in the second column | Content in the second column
+Site user | Content from cell 2 | Content from cell 3
+Site user | Content in the second column | Content in the second column
+Site user | Content from cell 2 | Content from cell 3
+Site user | Content in the second column | Content in the second column
+Site user | Content from cell 2 | Content from cell 3
+Site user | Content in the second column | Content in the second column
 
 ## Features 
 
