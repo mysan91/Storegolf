@@ -40,22 +40,22 @@ The site is a Golf store, were you can buy golf products, courses and also golf 
 
 **As a/an** | **I want to be able to**  | **So that I can** 
 ------------ | ------------- | -------------
-Shopper | Content from cell 2 | Content from cell 3
+Shopper | View individual product details | Learn more about the products and se the price/ratings
 Shopper | Content in the second column | Content in the second column
-Shopper | Content from cell 2 | Content from cell 3
-Shopper| Content in the second column | Content in the second column
-Shopper | Content from cell 2 | Content from cell 3
+Shopper | View the chart/bag | To se that all items are in the chart and at the right quantity
+Shopper| view the bags total price | To se the total spending
+Shopper | Search for products or category | So i can find what im looking for
 Shopper | Content in the second column | Content in the second column
-Shopper | Content from cell 2 | Content from cell 3
-Site owner | Content in the second column | Content in the second column
-Site owner | Content from cell 2 | Content from cell 3
-Site owner | Content in the second column | Content in the second column
-Site user | Content from cell 2 | Content from cell 3
-Site user | Content in the second column | Content in the second column
-Site user | Content from cell 2 | Content from cell 3
-Site user | Content in the second column | Content in the second column
-Site user | Content from cell 2 | Content from cell 3
-Site user | Content in the second column | Content in the second column
+Shopper | View a list of products | Select to purchase items 
+Site owner | Change/update product details | So the products details are correct and up to date
+Site owner | Delete products | So i can delete products that are no longer for sale
+Site owner | Add products | So i can scale the sales
+Site owner | changing the websites content | So i can change images, structures of the site if needed. 
+Site user | Get a confirmation email after register | So i know that my registrations work. 
+Site user | change my profile information or password | so that everything is up to date. 
+Shopper | Add payment information | So i can pay 
+Site user | Easily register for account | So that i can buy items
+Site user | Easily change informations in my profile| So my adress and informations are correct. 
 
 ## Features 
 
