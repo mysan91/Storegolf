@@ -15,11 +15,25 @@ The site is a Golf store, were you can buy golf products, courses and also golf 
 ### User Goals
 
 * First time visitor goals 
+ * Easy understand the websites structure and navigation.
+ * Understand the purpose of the website
+ * I want to be able to view specific product details
+ * I want to be easily able to purchase products
+ * i want it to be easy to set up an account
+ 
+ 
 * Returning visitor goals 
+ * Easily be able to check if any courses,travel or accessoaries is availible. 
+ * Login to the account that i have created before and see my purchases and information. 
+ * Change my account details. 
+ * I want to be able to view specific product details
+ * I want to be easily able to purchase products
+
+
 
 * Admin goals
   * As Admin, I want to:
-   Be able to create, read, update and delete all tours, matches and tickets on the website.
+   Be able to create, read, update and delete products. 
 
 
  ### User Requirements 
