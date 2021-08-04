@@ -9,7 +9,8 @@
         "price": 13.99,
         "category": 2,
         "rating": 4.8,
-        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/course.jpg"
+        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/course.jpg",
+        "image": "course.jpg"
         
       }
     },
@@ -23,7 +24,8 @@
         "price": 97.99,
         "category": 2,
         "rating": 4.7,
-        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/cours.jpg" 
+        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/cours.jpg",
+        "image": "cours.jpg"
       }
     },
     {
@@ -36,7 +38,8 @@
         "price": 180.99,
         "category": 2,
         "rating": 4.7,
-        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/practice.jpg"
+        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/practice.jpg",
+        "image": "practice.jpg"
    
     }
 },
@@ -50,7 +53,8 @@
         "price": 300,
         "category": 2,
         "rating": 4.9,
-        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/Greencard.jpg" 
+        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/Greencard.jpg",
+        "image": "Greencard.jpg"
     }
 },
 {
@@ -63,7 +67,8 @@
         "price": 300,
         "category": 2,
         "rating": 4.9,
-        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/precision.jpg" 
+        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/precision.jpg",
+        "image": "precision.jpg"
     }
 },
 {
@@ -76,7 +81,8 @@
         "price": 85,
         "category": 2,
         "rating": 4.9,
-        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/putting.jpg" 
+        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/putting.jpg",
+        "image": "putting.jpg"
       }
     },
     {
@@ -89,7 +95,8 @@
             "price": 750,
             "category": 1,
             "rating": 4.9,
-            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel.jpg" 
+            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel.jpg",
+            "image": "travel.jpg"
           }
         },
         {
@@ -102,7 +109,8 @@
                 "price": 550,
                 "category": 1,
                 "rating": 4.9,
-                "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel3.jpg" 
+                "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel3.jpg",
+                "image": "travel3.jpg"
               }
             },
             {
@@ -115,7 +123,8 @@
                     "price": 1500,
                     "category": 1,
                     "rating": 5,
-                    "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel2.jpg" 
+                    "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel2.jpg",
+                    "image": "travel2.jpg" 
                   }
                 },
                 {
@@ -128,7 +137,8 @@
                     "price": 40,
                     "category": 3,
                     "rating": 5,
-                    "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/ball.jpg" 
+                    "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/ball.jpg",
+                    "image": "ball.jpg"
 
                       }
                     },
@@ -142,7 +152,8 @@
                             "price": 75,
                             "category": 3,
                             "rating": 5,
-                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/ball.jpg" 
+                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/ball.jpg",
+                            "image": "ball.jpg"
 
                           }
                         },
@@ -156,7 +167,8 @@
                             "price": 135,
                             "category": 3,
                             "rating": 5,
-                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/ball.jpg" 
+                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/ball.jpg",
+                            "image": "ball.jpg"
                           }
                         },
                         {
@@ -169,7 +181,8 @@
                             "price": 20,
                             "category": 3,
                             "rating": 4,
-                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/balls.jpg" 
+                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/balls.jpg",
+                            "image": "balls.jpg"
                           }
                         },
                         {
@@ -182,7 +195,8 @@
                             "price": 15,
                             "category": 3,
                             "rating": 5,
-                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/pegs.jpg" 
+                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/pegs.jpg",
+                            "image": "pegs.jpg"
                           }
                         },
                         {
@@ -195,7 +209,8 @@
                             "price": 25,
                             "category": 3,
                             "rating": 5,
-                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/pegs.jpg" 
+                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/pegs.jpg",
+                            "image": "pegs.jpg"
                        
     
       }

@@ -19,8 +19,8 @@
        "pk":3,
        "model":"products.category",
        "fields":{
-          "name":"",
-          "friendly_name":"Clearance"
+          "name":"Accessories",
+          "friendly_name":"Accessories"
 
        }
     }
