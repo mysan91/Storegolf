@@ -77,7 +77,126 @@
         "category": 2,
         "rating": 4.9,
         "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/putting.jpg" 
+      }
+    },
+    {
+        "pk": 7,
+          "model": "products.product",
+          "fields": {
+            "sku": "A7",
+            "name": "Sweden Resort ",
+            "description": "A golf paradise in Sweden! Enjoy golf, sea and sun at this luxury resort in a completely superb location where sea meets land. In a fantastic location on a gently sloping hill down to the sea where a little over a kilometer long sandy beach receives the setting sun. Included: Flights, 4 star hotels, Breakfast, lunch and dinner 5 days and 4 green fees.",
+            "price": 750,
+            "category": 1,
+            "rating": 4.9,
+            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel.jpg" 
+          }
+        },
+        {
+            "pk": 8,
+              "model": "products.product",
+              "fields": {
+                "sku": "A8",
+                "name": "Italian golf weekend",
+                "description": "This trip takes us to northern Italy among the mountains.Stay in a luxury hotel located right next to the golf course Included: Flights, 5 star hotels, Breakfast, lunch and dinner 3 days and 3 green fees.",
+                "price": 550,
+                "category": 1,
+                "rating": 4.9,
+                "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel3.jpg" 
+              }
+            },
+            {
+                "pk": 9,
+                  "model": "products.product",
+                  "fields": {
+                    "sku": "A9",
+                    "name": "Golf holiday in Noway ",
+                    "description": "This trip takes us to southern Norway.Stay in a cozy hotel right next to the course. The trip extends over two weeks and gives you the opportunity to train on one of the best courses in Norway. Included: Flights, 3 star hotels, Breakfast, lunch and dinner 14 days and 10 green fees and 5 private lessons.",
+                    "price": 1500,
+                    "category": 1,
+                    "rating": 5,
+                    "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel2.jpg" 
+                  }
+                },
+                {
+                  "pk": 10,
+                  "model": "products.product",
+                  "fields": {
+                    "sku": "A10",
+                    "name": "Pro balls 12pcs ",
+                    "description": "This golf ball is a big favorite with both professionals and average golfers around the world. With its wonderful feel and excellent melee control, this ball suits all golfers regardless of level. The ball contains everything that could be desired by a golf ball. Fantastic spin and control in the close game, really good length with a penetrating ball flight and very soft feeling in all kinds. For you who want to take your game to the next level, this is the right ball for you.",
+                    "price": 40,
+                    "category": 3,
+                    "rating": 5,
+                    "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/ball.jpg" 
 
+                      }
+                    },
+                    {
+                        "pk": 11,
+                          "model": "products.product",
+                          "fields": {
+                            "sku": "A11",
+                            "name": "Pro balls 24pcs ",
+                            "description": "This golf ball is a big favorite with both professionals and average golfers around the world. With its wonderful feel and excellent melee control, this ball suits all golfers regardless of level. The ball contains everything that could be desired by a golf ball. Fantastic spin and control in the close game, really good length with a penetrating ball flight and very soft feeling in all kinds. For you who want to take your game to the next level, this is the right ball for you.",
+                            "price": 75,
+                            "category": 3,
+                            "rating": 5,
+                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/ball.jpg" 
+
+                          }
+                        },
+                        {
+                          "pk": 12,
+                          "model": "products.product",
+                          "fields": {
+                            "sku": "A12",
+                            "name": "Pro balls 48pcs ",
+                            "description": "This golf ball is a big favorite with both professionals and average golfers around the world. With its wonderful feel and excellent melee control, this ball suits all golfers regardless of level. The ball contains everything that could be desired by a golf ball. Fantastic spin and control in the close game, really good length with a penetrating ball flight and very soft feeling in all kinds. For you who want to take your game to the next level, this is the right ball for you.",
+                            "price": 135,
+                            "category": 3,
+                            "rating": 5,
+                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/ball.jpg" 
+                          }
+                        },
+                        {
+                          "pk": 13,
+                          "model": "products.product",
+                          "fields": {
+                            "sku": "A13",
+                            "name": "Practice balls 75pcs",
+                            "description": "The recycled golf balls in the box are of mixed quality - but also at a really low price.",
+                            "price": 20,
+                            "category": 3,
+                            "rating": 4,
+                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/balls.jpg" 
+                          }
+                        },
+                        {
+                          "pk": 14,
+                          "model": "products.product",
+                          "fields": {
+                            "sku": "A14",
+                            "name": "Pegs tees 150pcs ",
+                            "description": "tees 30% stronger than ordinary wooden tees",
+                            "price": 15,
+                            "category": 3,
+                            "rating": 5,
+                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/pegs.jpg" 
+                          }
+                        },
+                        {
+                          "pk": 15,
+                          "model": "products.product",
+                          "fields": {
+                            "sku": "A15",
+                            "name": "Pegs tees 300pcs ",
+                            "description": "tees 30% stronger than ordinary wooden tees",
+                            "price": 25,
+                            "category": 3,
+                            "rating": 5,
+                            "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/pegs.jpg" 
+                       
     
       }
     }
