@@ -3,43 +3,82 @@
       "pk": 1,
       "model": "products.product",
       "fields": {
-        "sku": "A001",
-        "name": "Travel",
-        "description": "Nice Travel",
-        "price": 53.99,
-        "category": 1,
-        "rating": 4.6,
-        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel.jpg",
-        "image": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel.jpg"
+        "sku": "A1",
+        "name": "Close Play",
+        "description": "Do you feel insecure about the game around the green. In this course, you will learn the secret behind a stable close game where the margin of error is greater than before. You will learn to hit the ball both high and low and how you can create more spin in the ball to make it stay faster. During the course we go through the technique of chipping and pitching.",
+        "price": 13.99,
+        "category": 2,
+        "rating": 4.8,
+        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/course.jpg"
+        
       }
     },
     {
       "pk": 2,
       "model": "products.product",
       "fields": {
-        "sku": "A002",
-        "name": "Travel",
-        "description": "Straight-leg styling and on-the-job comfort make our Audra pants a flattering business decision. flat front zip fly with hook-and-bar closure 2 front and 2 back welt pockets 34 1/2\" inseam polyester/rayon/spandex washable imported",
-        "price": 58.99,
-        "category": 1,
-        "rating": 4.6,
-        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel.jpg",
-        "image": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel.jpg"
+        "sku": "A2",
+        "name": "Private lesson 1 session",
+        "description": "Golf shop offers lessons for beginners to professionals. Our experienced staff can help you develop in the areas you need to improve in One session is equivalent to one hour.",
+        "price": 97.99,
+        "category": 2,
+        "rating": 4.7,
+        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/cours.jpg" 
       }
     },
     {
       "pk": 3,
       "model": "products.product",
       "fields": {
-        "sku": "A003",
-        "name": "Travel3",
-        "description": "Add a 5-star resort feel to your bedroom with the elegant Matte Satin Square coverlet set, featuring modern embroidered squares and flanged trim.  square embroidered pattern flanged-edge trim fabric is washable for easy care 3-piece set includes: coverlet 2 shams Polyester coverlet with cotton fill; polyester shams. Washable. Imported. Full/Queen: coverlet is 92x96\" King: coverlet is 110x96\"",
-        "price": 205.99,
-        "category": 1,
+        "sku": "A3",
+        "name": "Private lession 2 sessions",
+        "description": "Golf shop offers lessons for beginners to professionals. Our experienced staff can help you develop in the areas you need to improve in two session is equivalent to two hours.",
+        "price": 180.99,
+        "category": 2,
         "rating": 4.7,
-        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel.jpg",
-        "image": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/travel.jpg"
+        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/practice.jpg"
    
+    }
+},
+{
+    "pk": 4,
+      "model": "products.product",
+      "fields": {
+        "sku": "A4",
+        "name": "Beginner course",
+        "description": "This is the course for you who are new to golf or for you who have previously taken a beginner's course but have not really started yet. You will have access to highly experienced and committed coaches who together have several years of experience in golf teaching for both beginners and professionals.",
+        "price": 300,
+        "category": 2,
+        "rating": 4.9,
+        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/Greencard.jpg" 
+    }
+},
+{
+    "pk": 5,
+      "model": "products.product",
+      "fields": {
+        "sku": "A5",
+        "name": "Continuation course",
+        "description": "For those of you who have been playing for a while but have not yet reached Hcp 36. During the course, you get to try and develop the different parts of golf and repeat the basics under professional guidance. This gives you good conditions to continue your golf development according to your ambition, your conditions and goals.",
+        "price": 300,
+        "category": 2,
+        "rating": 4.9,
+        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/precision.jpg" 
+    }
+},
+{
+    "pk": 6,
+      "model": "products.product",
+      "fields": {
+        "sku": "A6",
+        "name": "Beginner course",
+        "description": "Improve your game and learn the latest Tour proven techniques used by the best players in the worldLearn the four fundamentals of PuttingPutting stroke mechanicsLearn how to practice like a proLearn the secret to perform under pressuretwo hours training in a group of a maximum of 4 people.",
+        "price": 85,
+        "category": 2,
+        "rating": 4.9,
+        "image_url": "https://raw.githubusercontent.com/mysan91/Storegolf/main/media/putting.jpg" 
+
+    
       }
     }
   ]
